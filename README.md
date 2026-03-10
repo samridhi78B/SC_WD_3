@@ -1,16 +1,103 @@
-# React + Vite
+# 🧠 Quiz Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Task Information
 
-Currently, two official plugins are available:
+**Repository Name:** SCT_WD_3  
+**Track:** Web Development Internship  
+**Task:** Build a Quiz Web Application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Project Description
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is a **Quiz Web Application built using React**.  
+It allows users to answer multiple-choice questions, track their score, and receive results at the end of the quiz.
 
-## Expanding the ESLint configuration
+The application dynamically displays questions, validates user answers, and calculates the final score after completing the quiz.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+* ❓ **Multiple Choice Questions** – Users can select answers from given options  
+* ⏭️ **Next Question Navigation** – Move through quiz questions easily  
+* 📊 **Score Calculation** – Displays the final score after quiz completion  
+* ⚡ **Dynamic Question Rendering** – Questions update without page reload  
+* 🎯 **User-Friendly Interface** – Clean and responsive UI design  
+* 🔄 **Restart Quiz Option** – Allows users to retake the quiz
+
+---
+
+## 🛠️ Technologies Used
+
+* **React.js**
+* **JavaScript**
+* **CSS**
+* **HTML**
+
+---
+
+SCT_WD_3
+│
+├── public
+├── src
+│ ├── components
+│ │ └── Quiz.js
+│ ├── App.js
+│ └── App.css
+│
+├── package.json
+└── README.md
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the repository
+
+
+git clone https://github.com/samridhi78B/SCT_WD_3.git
+
+
+### 2️⃣ Navigate to the project folder
+
+
+cd SCT_WD_3
+
+
+### 3️⃣ Install dependencies
+
+
+npm install
+
+
+### 4️⃣ Run the application
+
+
+npm start
+
+
+The app will run at:
+
+
+http://localhost:3000
+
+
+---
+
+## 📸 Project Screenshot
+
+![Quiz App UI](quiz.png)
+
+---
+
+## 📬 Author
+
+**Samridhi**  
+Web Development Intern
+
+---
+
+## 📄 License
+
+This project is created for internship task submission purposes.
