@@ -1,7 +1,7 @@
-# 🧠 Quiz Web Application
+# Quiz Web Application
 
 ## 📌 Task Information
-
+https://github.com/samridhi78B/SC_WD_3/edit/main/README.md
 **Repository Name:** SCT_WD_3  
 **Track:** Web Development Internship  
 **Task:** Build a Quiz Web Application
@@ -17,18 +17,18 @@ The application dynamically displays questions, validates user answers, and calc
 
 ---
 
-## ✨ Features
+##  Features
 
-* ❓ **Multiple Choice Questions** – Users can select answers from given options  
-* ⏭️ **Next Question Navigation** – Move through quiz questions easily  
-* 📊 **Score Calculation** – Displays the final score after quiz completion  
-* ⚡ **Dynamic Question Rendering** – Questions update without page reload  
-* 🎯 **User-Friendly Interface** – Clean and responsive UI design  
-* 🔄 **Restart Quiz Option** – Allows users to retake the quiz
+*  **Multiple Choice Questions** – Users can select answers from given options  
+*  **Next Question Navigation** – Move through quiz questions easily  
+*  **Score Calculation** – Displays the final score after quiz completion  
+*  **Dynamic Question Rendering** – Questions update without page reload  
+*  **User-Friendly Interface** – Clean and responsive UI design  
+*  **Restart Quiz Option** – Allows users to retake the quiz
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **React.js**
 * **JavaScript**
