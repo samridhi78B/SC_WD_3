@@ -39,12 +39,13 @@ The application dynamically displays questions, validates user answers, and calc
 
 SCT_WD_3
 │
-├── public
-├── src
-│ ├── components
-│ │ └── Quiz.js
-│ ├── App.js
-│ └── App.css
+├── public/
+│
+├── src/
+│   ├── components/
+│   │   └── Quiz.js
+│   ├── App.js
+│   └── App.css
 │
 ├── package.json
 └── README.md
@@ -56,7 +57,7 @@ SCT_WD_3
 ### 1️⃣ Clone the repository
 
 
-git clone https://github.com/samridhi78B/SCT_WD_3.git
+git clone https://github.com/samridhi78B/SC_WD_3.git
 
 
 ### 2️⃣ Navigate to the project folder
