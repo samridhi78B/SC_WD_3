@@ -87,7 +87,7 @@ http://localhost:3000
 
 ## 📸 Project Screenshot
 
-![Quiz App UI](quiz.png)
+![Quiz App UI](src/quiz_img2.png)
 
 ---
 
