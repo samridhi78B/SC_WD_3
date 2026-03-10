@@ -37,21 +37,6 @@ The application dynamically displays questions, validates user answers, and calc
 
 ---
 
-SCT_WD_3
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   │   └── Quiz.js
-│   ├── App.js
-│   └── App.css
-│
-├── package.json
-└── README.md
-
----
-
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the repository
