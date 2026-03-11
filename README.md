@@ -1,7 +1,6 @@
 # Quiz Web Application
 
 ## 📌 Task Information
-https://github.com/samridhi78B/SC_WD_3/edit/main/README.md
 **Repository Name:** SCT_WD_3  
 **Track:** Web Development Internship  
 **Task:** Build a Quiz Web Application
