@@ -1,13 +1,13 @@
 # Quiz Web Application
 
-## 📌 Task Information
+## Task Information
 **Repository Name:** SCT_WD_3  
 **Track:** Web Development Internship  
 **Task:** Build a Quiz Web Application
 
 ---
 
-## 🚀 Project Description
+## Project Description
 
 This project is a **Quiz Web Application built using React**.  
 It allows users to answer multiple-choice questions, track their score, and receive results at the end of the quiz.
@@ -36,7 +36,7 @@ The application dynamically displays questions, validates user answers, and calc
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### 1️⃣ Clone the repository
 
@@ -70,19 +70,19 @@ http://localhost:3000
 
 ---
 
-## 📸 Project Screenshot
+##  Project Screenshot
 
 ![Quiz App UI](src/quiz_img2.png)
 
 ---
 
-## 📬 Author
+## Author
 
 **Samridhi**  
 Web Development Intern
 
 ---
 
-## 📄 License
+## License
 
 This project is created for internship task submission purposes.
